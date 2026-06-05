@@ -1,0 +1,6 @@
+{
+  "name": "Precision Subtitle Corrector",
+  "description": "Align and correct AI-generated character-level subtitles against video reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
